@@ -11,8 +11,8 @@
 
 ## Research
 | Date | Category | Topic | Details | 
-| --- | --- | --- | --- |
-| |<img width=158/>| | | |
+| --- | :---: | --- | --- |
+| |<img width=165/>| | | |
 | 08/06/2021 | ⚠️&#160;CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability | [Link](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-1675) |
 | 07/06/2021 | ⚠️&#160;CVE-2021-24378 | Authenticated Stored XSS (Autoptimize) | [Link](https://wpscan.com/vulnerability/375bd694-1a30-41af-bbd4-8a8ee54f0dbf) |
 | 07/06/2021 | ⚠️&#160;CVE-2021-24377 | Race Condition leading to RCE (Autoptimize) | [Link](https://wpscan.com/vulnerability/85c0a564-2e56-413d-bc3a-1039343207e4) |
@@ -46,8 +46,8 @@
 | 28/07/2020 | 📔&#160;Article | Windows – backdooring – część III | [Link](https://www.blog.afine.academy/windows-backdooring-czesc-iii/) | 
 | 19/07/2020 | 📔&#160;Article | Windows – backdooring – część II | [Link](https://www.blog.afine.academy/windows-backdooring-czesc-ii/) | 
 | 17/07/2020 | ⚠️&#160;CVE-2020-15596 | Touchpad driver DLL Hijacking | [Link](https://seclists.org/fulldisclosure/2020/Jul/30) | 
-| 29/05/2020 | ⚠️&#160;CVE | CVE-2020-13700 - wp plugin acf-to-rest-api Insecure direct object reference via permalinks manipulation | [Link](https://gist.github.com/mariuszpoplawski/b5fc9fdbf5469ed139e114a913dcf3ba) | 
-| 25/05/2020 | ⚠️&#160;CVE | CVE-2020-13484 - Bitrix CRM unauthenticated server side request forgery | [Link](https://gist.github.com/mariuszpoplawski/26e1fbde8f9a607478bee1de90daa329) | 
+| 29/05/2020 | ⚠️&#160;CVE-2020-13700 | wp plugin acf-to-rest-api Insecure direct object reference via permalinks manipulation | [Link](https://gist.github.com/mariuszpoplawski/b5fc9fdbf5469ed139e114a913dcf3ba) | 
+| 25/05/2020 | ⚠️&#160;CVE-2020-13484 | Bitrix CRM unauthenticated server side request forgery | [Link](https://gist.github.com/mariuszpoplawski/26e1fbde8f9a607478bee1de90daa329) | 
 | 25/05/2020 | ⚠️&#160;CVE-2020-13483 | Bitrix CRM XSS / WAF bypass | [Link](https://gist.github.com/mariuszpoplawski/44c5dd8ca1c40ebbacd119505254195e) | 
 | 24/05/2020 | ⚠️&#160;CVE-2020-13443 | ExpressionEngine Remote Command Execution via unrestricted file upload | [Link](https://gist.github.com/mariuszpoplawski/703586aa068bdad21f2c098f396ce04f) | 
 | 21/04/2020 | ⚠️&#160;CVE-2020-11976 | Apache Wicket Directory traversal due to guard protection bypass - read wicket markup file source | [Link](https://github.com/apache/wicket/commit/c4f6b429a1f210e80f41016f52bfffd4b10cae0f) | 
