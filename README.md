@@ -52,7 +52,7 @@
 | 20/11/2019 | ⚠️ | CVE-2019-19129 | Afterlogic WebMail Pro 8.3.11 Remote Stored XSS via an attachment name. | [Link](https://auroramail.wordpress.com/2019/11/25/vulnerability-closed-in-webmail-and-aurora-remote-stored-xss-in-attachments-name/) | 
 | 05/08/2019 | ⚠️ | CVE-2019-14521 | Arbitrary File Upload leading to RCE (Energy Logserver) | [Link](https://nvd.nist.gov/vuln/detail/CVE-2019-14521) | 
 | 17/07/2019 | ⚠️ | CVE-2020-5907 | TMOS Shell privilege escalation vulnerability | [Link](https://support.f5.com/csp/article/K00091341) |
-| | |<img width=165/>| | | |
+| | |<img width=162/>| | | |
 
 ## Articles
 
