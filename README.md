@@ -1,4 +1,6 @@
-# Presentations (AFINE team)
+# AFINE Team contribution
+
+## Conferences
 
 | Date | Author  | Title | Event | Details|
 |--|--|--|--|--|
@@ -7,6 +9,7 @@
 |14/12/2019| Michał Bazyli | *Logiczne podatności w systemie Windows* |What the Hack 2019|[PPTX](https://github.com/afinepl/presentations/blob/master/Materials/Logiczne_Podatnosci_w_Systemie_Windows.pptx)|
 |14/12/2019| Łukasz Mikuła | *COM to me, baby*  |What the Hack 2019|[YouTube Video](https://www.youtube.com/watch?v=uhc50qsnTEY)|
 
+## Research
 | Date | Category | Topic | Details | 
 | --- | --- | --- | --- |
 | 08/06/2021 | ⚠️&#160;CVE | CVE-2021-1675 - Windows Print Spooler Elevation of Privilege Vulnerability | [Link](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-1675) |
