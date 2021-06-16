@@ -4,7 +4,7 @@
 
 | Date | | Topic | Details | 
 | --- | :---: | --- | :---: |
-| 09/04/2021 | 🎥 | Smart Web Fuzzing, czyli jakie powierzchnie ataku możemy półautomatyzować — Łukasz Mikuła, Warszawskie Dni Informatyki | [Link](https://www.youtube.com/watch?v=SVgHzJuYwMw&) | 
+| 09/04/2021 | 🎥 | Smart Web Fuzzing, czyli jakie powierzchnie ataku możemy półautomatyzować — Łukasz Mikuła, Warszawskie Dni Informatyki | [Link](https://www.youtube.com/watch?v=SVgHzJuYwMw) | 
 | 11/09/2020 | 🎥 | Współczesna infrastruktura Red Teamowa — Łukasz Mikuła, Piotr Madej, Security Case Study | [Link](https://www.securitycasestudy.pl/agenda-2020-2/) | 
 | 27/02/2020 | 🎥 | Phishing - jak malware trafia do Twojej organizacji — Piotr Madej, OWASP Katowice | [Link](https://github.com/piotr-madej/OWASP-Katowice2020) | 
 | 29/01/2020 | 🎥 | O pracy pentestera | [Link](https://github.com/piotr-madej/17_53c_Gliwice_29-01-2020) | 
