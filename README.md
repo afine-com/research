@@ -3,17 +3,18 @@
 ## Conferences
 
 | Date | | Topic | Details | 
-| --- | :---: | --- | --- |
-| 11/09/2020 | 🎥 | Współczesna infrastruktura Red Teamowa, Łukasz Mikuła, Piotr Madej, Security Case Study | [Link](https://www.securitycasestudy.pl/agenda-2020-2/) | 
-| 27/02/2020 | 🎥 | Phishing - jak malware trafia do Twojej organizacji | [Link](https://github.com/piotr-madej/OWASP-Katowice2020) | 
+| --- | :---: | --- | :---: |
+| 09/04/2021 | 🎥 | Smart Web Fuzzing, czyli jakie powierzchnie ataku możemy półautomatyzować — Łukasz Mikuła, Warszawskie Dni Informatyki | [Link](https://www.youtube.com/watch?v=SVgHzJuYwMw&) | 
+| 11/09/2020 | 🎥 | Współczesna infrastruktura Red Teamowa — Łukasz Mikuła, Piotr Madej, Security Case Study | [Link](https://www.securitycasestudy.pl/agenda-2020-2/) | 
+| 27/02/2020 | 🎥 | Phishing - jak malware trafia do Twojej organizacji — Piotr Madej, OWASP Katowice | [Link](https://github.com/piotr-madej/OWASP-Katowice2020) | 
 | 29/01/2020 | 🎥 | O pracy pentestera | [Link](https://github.com/piotr-madej/17_53c_Gliwice_29-01-2020) | 
-| 14/12/2019 | 🎥 | COM to me, baby  Łukasz Mikuła,  WTH Conference | [Link](https://www.youtube.com/watch?v=uhc50qsnTEY) | 
-| 14/12/2019 | 🎥 | Logiczne podatności w systemie Windows,  Michał Bazyli, WTH Conference | [Link](https://github.com/afinepl/presentations/blob/master/Materials/Logiczne_Podatnosci_w_Systemie_Windows.pptx) | 
+| 14/12/2019 | 🎥 | COM to me, baby — Łukasz Mikuła, WTH Conference | [Link](https://www.youtube.com/watch?v=uhc50qsnTEY) | 
+| 14/12/2019 | 🎥 | Logiczne podatności w systemie Windows — Michał Bazyli, WTH Conference | [Link](https://github.com/afinepl/presentations/blob/master/Materials/Logiczne_Podatnosci_w_Systemie_Windows.pptx) | 
 
 ## Research
 
 | Date | | CVE | Topic | Details | 
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | :---: |
 | 08/06/2021 | ⚠️ | CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability | [Link](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-1675) |
 | 07/06/2021 | ⚠️ | CVE-2021-24378 | Authenticated Stored XSS (Autoptimize) | [Link](https://wpscan.com/vulnerability/375bd694-1a30-41af-bbd4-8a8ee54f0dbf) |
 | 07/06/2021 | ⚠️ | CVE-2021-24377 | Race Condition leading to RCE (Autoptimize) | [Link](https://wpscan.com/vulnerability/85c0a564-2e56-413d-bc3a-1039343207e4) |
@@ -49,17 +50,24 @@
 | 25/05/2020 | ⚠️ | CVE-2020-13483 | Bitrix CRM XSS / WAF bypass | [Link](https://gist.github.com/mariuszpoplawski/44c5dd8ca1c40ebbacd119505254195e) | 
 | 24/05/2020 | ⚠️ | CVE-2020-13443 | ExpressionEngine Remote Command Execution via unrestricted file upload | [Link](https://gist.github.com/mariuszpoplawski/703586aa068bdad21f2c098f396ce04f) | 
 | 21/04/2020 | ⚠️ | CVE-2020-11976 | Apache Wicket Directory traversal due to guard protection bypass - read wicket markup file source | [Link](https://github.com/apache/wicket/commit/c4f6b429a1f210e80f41016f52bfffd4b10cae0f) | 
+| 13/01/2020 | ⚠️ | CVE-2020-6856 | JOC Cockpit, Jobscheduler, XML External Entity | [Link](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-6856) |
+| 13/01/2020 | ⚠️ | CVE-2020-6855 | JOC Cockpit, Jobscheduler, Denial of Service | [Link](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-6855) |
+| 13/01/2020 | ⚠️ | CVE-2020-6854 | JOC Cockpit, Jobscheduler, Multiple Stored Cross Site Scripting | [Link](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-6854) |
 | 20/11/2019 | ⚠️ | CVE-2019-19129 | Afterlogic WebMail Pro 8.3.11 Remote Stored XSS via an attachment name. | [Link](https://auroramail.wordpress.com/2019/11/25/vulnerability-closed-in-webmail-and-aurora-remote-stored-xss-in-attachments-name/) | 
 | 05/08/2019 | ⚠️ | CVE-2019-14521 | Arbitrary File Upload leading to RCE (Energy Logserver) | [Link](https://nvd.nist.gov/vuln/detail/CVE-2019-14521) | 
 | 17/07/2019 | ⚠️ | CVE-2020-5907 | TMOS Shell privilege escalation vulnerability | [Link](https://support.f5.com/csp/article/K00091341) |
-| | |<img width=162/>| | | |
+| 26/03/2019 | ⚠️ | CVE-2019-10070 | Apache Atlas, Stored Cross Site Scripting | [Link](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-10070) |
+|  |  |<img width=162/>|  |  |  |
 
 ## Articles
 
 | Date |  | Topic | Details | 
-| --- | :---: | --- | --- |
-| 12/04/2020 | 📔 | Windows – backdooring – część I | [Link](https://www.blog.afine.academy/windows-backdooring-i/) | 
+| --- | :---: | --- | :---: |
+| 08/02/2021 | 📔 | Testing and exploiting Java Deserialization in 2021 | [Link](https://afinepl.medium.com/testing-and-exploiting-java-deserialization-in-2021-e762f3e43ca2) |
+| 08/10/2020 | 📔 | Java RMI for pentesters part two — reconnaissance & attack against non-JMX registries | [Link](https://itnext.io/java-rmi-for-pentesters-part-two-reconnaissance-attack-against-non-jmx-registries-187a6561314d) |
+| 27/09/2020 | 📔 | Java RMI for pentesters: structure, recon and communication (non-JMX Registries) | [Link](https://itnext.io/java-rmi-for-pentesters-structure-recon-and-communication-non-jmx-registries-a10d5c996a79) |
 | 28/07/2020 | 📔 | Windows – backdooring – część III | [Link](https://www.blog.afine.academy/windows-backdooring-czesc-iii/) | 
 | 19/07/2020 | 📔 | Windows – backdooring – część II | [Link](https://www.blog.afine.academy/windows-backdooring-czesc-ii/) |
+| 12/04/2020 | 📔 | Windows – backdooring – część I | [Link](https://www.blog.afine.academy/windows-backdooring-i/) | 
 |  | 📔 | Active Directory Cheat Sheet | [Link](https://github.com/punishell/ADCheatSheet/) | 
 |  | 📔 | SLAE Course & Exam Review | [Link](https://jakubheba.github.io/) |  
