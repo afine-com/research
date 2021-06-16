@@ -63,11 +63,30 @@
 
 | Date |  | Topic | Details | 
 | --- | :---: | --- | :---: |
+| 13/06/2021 | 📔 | Bezpieczeństwo AWS – jak zacząć? (i po co) | [Link](https://www.blog.afine.academy/bezpieczenstwo-aws-jak-zaczac-i-po-co/) |
+| 07/06/2021 | 📔 | Bezpieczeństwo Kubernetesa – ćwiczenia z Kubernetes Goat | [Link](https://www.blog.afine.academy/bezpieczenstwo-kubernetesa-cwiczenia-z-kubernetes-goat/) |
+| 25/05/2021 | 📔 | Analiza statyczna plików wykonywalnych | [Link](https://www.blog.afine.academy/video-analiza-statyczna-plikow-wykonywalnych/) |
+| 13/05/2021 | 📔 | Wyłudzenia portfeli kryptowalut, czyli kolejna odsłona socjotechniki | [Link](https://www.blog.afine.academy/wyludzenia-portfeli-kryptowalut-czyli-kolejna-odslona-socjotechniki/) |
+| 10/05/2021 | 📔 | JIRA CVE-2019-11581 – budujemy exploita 1-day! | [Link](https://www.blog.afine.academy/jira-cve-2019-11581-budujemy-exploita-1-day/) |
+| 09/05/2021 | 📔 | Workplace by Facebook: bug bounty za 100000 PLN | [Link](https://www.blog.afine.academy/workplace-by-facebook-bug-bounty-za-100000-pln/) |
+| 01/05/2021 | 📔 | Darmowe szkolenie Burp Suite Community – pozostałe części | [Link](https://www.blog.afine.academy/darmowe-szkolenie-burp-suite-community-pozostale-czesci/) |
+| 25/04/2021 | 📔 | Malware Sysrv – jak sprawdzić, czy go nie złapaliśmy i dlaczego patchowanie jest ważne | [Link](https://www.blog.afine.academy/malware-sysrv-jak-sprawdzic-czy-go-nie-zlapalismy-i-dlaczego-patchowanie-jest-wazne/) |
+| 17/04/2021 | 📔 | Czy Twoja JIRA jest bezpieczna? Sprawdź! | [Link](https://www.blog.afine.academy/czy-twoja-jira-jest-bezpieczna-sprawdz/) |
+| 15/04/2021 | 📔 | Szkolenie Burp Suite Community – część 4 – target | [Link](https://www.blog.afine.academy/szkolenie-burp-suite-community-czesc-4-target/) |
+| 13/04/2021 | 📔 | Szkolenie Burp Suite Community – część 3 – proxy i scope | [Link](https://www.blog.afine.academy/szkolenie-burp-suite-community-czesc-3-proxy-i-scope/) |
+| 06/04/2021 | 📔 | Burp Suite Community – szkolenie – część 2 | [Link](https://www.blog.afine.academy/burp-suite-community-szkolenie-czesc-2/) |
+| 06/04/2021 | 📔 | Burp Suite Community – szkolenie – część 1 | [Link](https://www.blog.afine.academy/burp-suite-community-szkolenie-czesc-i/) |
+| 05/04/2021 | 📔 | Automation of the reconnaissance phase during Web Application Penetration Testing III | [Link](https://karol-mazurek95.medium.com/automation-of-the-reconnaissance-phase-during-web-application-penetration-testing-iii-2823b16f38cc) |
+| 21/03/2021 | 📔 | Automation of the reconnaissance phase during Web Application Penetration Testing II | [Link](https://karol-mazurek95.medium.com/automation-of-the-reconnaissance-phase-during-web-application-penetration-testing-ii-4336bd4ca73b) |
+| 19/03/2021 | 📔 | Atakowanie GDPR (RODO) | [Link](https://www.blog.afine.academy/atakowanie-gdpr-rodo/) |
+| 15/03/2021 | 📔 | Automation of the reconnaissance phase during Web Application Penetration Testing I | [Link](https://karol-mazurek95.medium.com/automation-of-the-reconnaissance-phase-during-web-application-penetration-testing-i-574fd9dce53e) |
+| 14/03/2021 | 📔 | Github Dorks – czyli ofensywny OSINT na GitHubie | [Link](https://www.blog.afine.academy/github-dorks-czyli-ofensywny-osint-na-githubie/) |
+| 08/03/2021 | 📔 | Podatność Subdomain Takeover – czym jest i jak jej szukać? | [Link](https://www.blog.afine.academy/podatnosc-subdomain-takeover-czym-jest-i-jak-jej-szukac/) |
 | 08/02/2021 | 📔 | Testing and exploiting Java Deserialization in 2021 | [Link](https://afinepl.medium.com/testing-and-exploiting-java-deserialization-in-2021-e762f3e43ca2) |
 | 08/10/2020 | 📔 | Java RMI for pentesters part two — reconnaissance & attack against non-JMX registries | [Link](https://itnext.io/java-rmi-for-pentesters-part-two-reconnaissance-attack-against-non-jmx-registries-187a6561314d) |
 | 27/09/2020 | 📔 | Java RMI for pentesters: structure, recon and communication (non-JMX Registries) | [Link](https://itnext.io/java-rmi-for-pentesters-structure-recon-and-communication-non-jmx-registries-a10d5c996a79) |
 | 28/07/2020 | 📔 | Windows – backdooring – część III | [Link](https://www.blog.afine.academy/windows-backdooring-czesc-iii/) | 
 | 19/07/2020 | 📔 | Windows – backdooring – część II | [Link](https://www.blog.afine.academy/windows-backdooring-czesc-ii/) |
 | 12/04/2020 | 📔 | Windows – backdooring – część I | [Link](https://www.blog.afine.academy/windows-backdooring-i/) | 
-|  | 📔 | Active Directory Cheat Sheet | [Link](https://github.com/punishell/ADCheatSheet/) | 
-|  | 📔 | SLAE Course & Exam Review | [Link](https://jakubheba.github.io/) |  
+| 31/01/2020 | 📔 | SLAE Course & Exam Review | [Link](https://jakubheba.github.io/) |  
+| 16/01/2020 | 📔 | Active Directory Cheat Sheet | [Link](https://github.com/punishell/ADCheatSheet/) | 
