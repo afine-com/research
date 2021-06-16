@@ -7,7 +7,7 @@
 | 09/04/2021 | 🎥 | Smart Web Fuzzing, czyli jakie powierzchnie ataku możemy półautomatyzować — Łukasz Mikuła, Warszawskie Dni Informatyki | [Link](https://www.youtube.com/watch?v=SVgHzJuYwMw) | 
 | 11/09/2020 | 🎥 | Współczesna infrastruktura Red Teamowa — Łukasz Mikuła, Piotr Madej, Security Case Study | [Link](https://www.securitycasestudy.pl/agenda-2020-2/) | 
 | 27/02/2020 | 🎥 | Phishing - jak malware trafia do Twojej organizacji — Piotr Madej, OWASP Katowice | [Link](https://github.com/piotr-madej/OWASP-Katowice2020) | 
-| 29/01/2020 | 🎥 | O pracy pentestera | [Link](https://github.com/piotr-madej/17_53c_Gliwice_29-01-2020) | 
+| 29/01/2020 | 🎥 | O pracy pentestera — Piotr Madej, 17 53c - Gliwice Cybersecurity Meetup Group | [Link](https://github.com/piotr-madej/17_53c_Gliwice_29-01-2020) | 
 | 14/12/2019 | 🎥 | COM to me, baby — Łukasz Mikuła, WTH Conference | [Link](https://www.youtube.com/watch?v=uhc50qsnTEY) | 
 | 14/12/2019 | 🎥 | Logiczne podatności w systemie Windows — Michał Bazyli, WTH Conference | [Link](https://github.com/afinepl/presentations/blob/master/Materials/Logiczne_Podatnosci_w_Systemie_Windows.pptx) | 
 
