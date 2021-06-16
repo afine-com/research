@@ -15,6 +15,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 16/06/2021 | ⚠️ | CVE-2021-3584 | Server-side remote code execution (Foreman) | [Link](https://access.redhat.com/security/cve/CVE-2021-3584) |
 | 08/06/2021 | ⚠️ | CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability | [Link](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-1675) |
 | 07/06/2021 | ⚠️ | CVE-2021-24378 | Authenticated Stored XSS (Autoptimize) | [Link](https://wpscan.com/vulnerability/375bd694-1a30-41af-bbd4-8a8ee54f0dbf) |
 | 07/06/2021 | ⚠️ | CVE-2021-24377 | Race Condition leading to RCE (Autoptimize) | [Link](https://wpscan.com/vulnerability/85c0a564-2e56-413d-bc3a-1039343207e4) |
