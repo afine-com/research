@@ -15,6 +15,8 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 17/10/2022 | ⚠️ | CVE-2022-35642 | IBM InfoSphere Information Server is vulnerable to stored cross-site scripting | [Link](https://www.ibm.com/support/pages/node/6829311) |
+| 17/10/2022 | ⚠️ | CVE-2022-30615 | IBM InfoSphere Information Server is vulnerable to cross-site scripting | [Link](https://www.ibm.com/support/pages/node/6829311) |
 | 28/06/2021 | ⚠️ | CVE-2021-34254 | Open Redirection (OurUmbraco) | [Link](https://nvd.nist.gov/vuln/detail/CVE-2021-34254) |
 | 16/06/2021 | ⚠️ | CVE-2021-3584 | Server-side remote code execution (Foreman) | [Link](https://access.redhat.com/security/cve/CVE-2021-3584) |
 | 08/06/2021 | ⚠️ | CVE-2021-1675 | Windows Print Spooler Elevation of Privilege Vulnerability | [Link](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2021-1675) |
