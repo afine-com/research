@@ -4,10 +4,10 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 25/07/2022 | ⚠️ | CVE-2022-36433 | Cross-site Scripting (XSS) in blog-post creation functionality in Amasty Blog Pro for Magento 2 | [Link](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-36433) |
+| 25/07/2022 | ⚠️ | CVE-2022-36432 | Cross-site Scripting (XSS) in Preview functionality in Amasty Blog Pro for Magento 2 | [Link](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-36432) |
 | 11/07/2022 | ⚠️ | CVE-2022-35501 | Stored Cross-site Scripting (XSS) in blog-post creation functionality in Amasty Blog Pro for Magento 2 | [Link](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-35501) |
 | 11/07/2022 | ⚠️ | CVE-2022-35500 | Stored Cross-site Scripting (XSS) in leave comment functionality in Amasty Blog Pro for Magento 2 | [Link](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-35500) |
-| 11/07/2022 | ⚠️ | CVE-2022-36433 | Cross-site Scripting (XSS) in blog-post creation functionality in Amasty Blog Pro for Magento 2 | [Link](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-36433) |
-| 25/07/2022 | ⚠️ | CVE-2022-36432 | Cross-site Scripting (XSS) in Preview functionality in Amasty Blog Pro for Magento 2 | [Link](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-36432) |
 | 17/10/2022 | ⚠️ | CVE-2022-35642 | IBM InfoSphere Information Server is vulnerable to stored cross-site scripting | [Link](https://www.ibm.com/support/pages/node/6829311) |
 | 17/10/2022 | ⚠️ | CVE-2022-30615 | IBM InfoSphere Information Server is vulnerable to cross-site scripting | [Link](https://www.ibm.com/support/pages/node/6829311) |
 | 28/06/2021 | ⚠️ | CVE-2021-34254 | Open Redirection (OurUmbraco) | [Link](https://nvd.nist.gov/vuln/detail/CVE-2021-34254) |
