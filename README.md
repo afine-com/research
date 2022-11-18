@@ -1,20 +1,13 @@
 # AFINE Team contribution
 
-## Conferences
-
-| Date | | Topic | Details | 
-| --- | :---: | --- | :---: |
-| 09/04/2021 | 🎥 | Smart Web Fuzzing, czyli jakie powierzchnie ataku możemy półautomatyzować — Łukasz Mikuła, Warszawskie Dni Informatyki | [Link](https://www.youtube.com/watch?v=SVgHzJuYwMw) | 
-| 11/09/2020 | 🎥 | Współczesna infrastruktura Red Teamowa — Łukasz Mikuła, Piotr Madej, Security Case Study | [Link](https://www.securitycasestudy.pl/agenda-2020-2/) | 
-| 27/02/2020 | 🎥 | Phishing - jak malware trafia do Twojej organizacji — Piotr Madej, OWASP Katowice | [Link](https://github.com/piotr-madej/OWASP-Katowice2020) | 
-| 29/01/2020 | 🎥 | O pracy pentestera — Piotr Madej, 17 53c - Gliwice Cybersecurity Meetup Group | [Link](https://github.com/piotr-madej/17_53c_Gliwice_29-01-2020) | 
-| 14/12/2019 | 🎥 | COM to me, baby — Łukasz Mikuła, WTH Conference | [Link](https://www.youtube.com/watch?v=uhc50qsnTEY) | 
-| 14/12/2019 | 🎥 | Logiczne podatności w systemie Windows — Michał Bazyli, WTH Conference | [Link](https://github.com/afinepl/presentations/blob/master/Materials/Logiczne_Podatnosci_w_Systemie_Windows.pptx) | 
-
 ## Research
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 11/07/2022 | ⚠️ | CVE-2022-35501 | Stored Cross-site Scripting (XSS) in blog-post creation functionality in Amasty Blog Pro for Magento 2 | [Link](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-35501) |
+| 11/07/2022 | ⚠️ | CVE-2022-35500 | Stored Cross-site Scripting (XSS) in leave comment functionality in Amasty Blog Pro for Magento 2 | [Link](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-35500) |
+| 11/07/2022 | ⚠️ | CVE-2022-36432 | Cross-site Scripting (XSS) in blog-post creation functionality in Amasty Blog Pro for Magento 2 | [Link](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-36433) |
+| 25/07/2022 | ⚠️ | CVE-2022-36432 | Cross-site Scripting (XSS) in Preview functionality in Amasty Blog Pro for Magento 2 | [Link](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-36432) |
 | 17/10/2022 | ⚠️ | CVE-2022-35642 | IBM InfoSphere Information Server is vulnerable to stored cross-site scripting | [Link](https://www.ibm.com/support/pages/node/6829311) |
 | 17/10/2022 | ⚠️ | CVE-2022-30615 | IBM InfoSphere Information Server is vulnerable to cross-site scripting | [Link](https://www.ibm.com/support/pages/node/6829311) |
 | 28/06/2021 | ⚠️ | CVE-2021-34254 | Open Redirection (OurUmbraco) | [Link](https://nvd.nist.gov/vuln/detail/CVE-2021-34254) |
@@ -94,3 +87,14 @@
 | 12/04/2020 | 📔 | Windows – backdooring – część I | [Link](https://www.blog.afine.academy/windows-backdooring-i/) | 
 | 31/01/2020 | 📔 | SLAE Course & Exam Review | [Link](https://jakubheba.github.io/) |  
 | 16/01/2020 | 📔 | Active Directory Cheat Sheet | [Link](https://github.com/punishell/ADCheatSheet/) | 
+
+## Conferences
+
+| Date | | Topic | Details | 
+| --- | :---: | --- | :---: |
+| 09/04/2021 | 🎥 | Smart Web Fuzzing, czyli jakie powierzchnie ataku możemy półautomatyzować — Łukasz Mikuła, Warszawskie Dni Informatyki | [Link](https://www.youtube.com/watch?v=SVgHzJuYwMw) | 
+| 11/09/2020 | 🎥 | Współczesna infrastruktura Red Teamowa — Łukasz Mikuła, Piotr Madej, Security Case Study | [Link](https://www.securitycasestudy.pl/agenda-2020-2/) | 
+| 27/02/2020 | 🎥 | Phishing - jak malware trafia do Twojej organizacji — Piotr Madej, OWASP Katowice | [Link](https://github.com/piotr-madej/OWASP-Katowice2020) | 
+| 29/01/2020 | 🎥 | O pracy pentestera — Piotr Madej, 17 53c - Gliwice Cybersecurity Meetup Group | [Link](https://github.com/piotr-madej/17_53c_Gliwice_29-01-2020) | 
+| 14/12/2019 | 🎥 | COM to me, baby — Łukasz Mikuła, WTH Conference | [Link](https://www.youtube.com/watch?v=uhc50qsnTEY) | 
+| 14/12/2019 | 🎥 | Logiczne podatności w systemie Windows — Michał Bazyli, WTH Conference | [Link](https://github.com/afinepl/presentations/blob/master/Materials/Logiczne_Podatnosci_w_Systemie_Windows.pptx) | 
