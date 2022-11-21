@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 16/09/2022 | ⚠️ | CVE-2022-40746 | IBM i Access Client Solutions is vulnerable to DLL hijacking when run on a Windows operating system | [Link](https://www.ibm.com/support/pages/node/6840359) |
 | 25/07/2022 | ⚠️ | CVE-2022-36433 | Cross-site Scripting (XSS) in blog-post creation functionality in Amasty Blog Pro for Magento 2 | [Link](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-36433) |
 | 25/07/2022 | ⚠️ | CVE-2022-36432 | Cross-site Scripting (XSS) in Preview functionality in Amasty Blog Pro for Magento 2 | [Link](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-36432) |
 | 11/07/2022 | ⚠️ | CVE-2022-35501 | Stored Cross-site Scripting (XSS) in blog-post creation functionality in Amasty Blog Pro for Magento 2 | [Link](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-35501) |
