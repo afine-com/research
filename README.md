@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 13/06/2023 | ⚠️ | CVE-2023-35840 | elFinder < 2.1.62 - Path Traversal vulnerability in PHP LocalVolumeDriver connector | [Link](https://github.com/Studio-42/elFinder/security/advisories/GHSA-wm5g-p99q-66g4) |
 | 20/03/2023 | ⚠️ | CVE-2023-1478 | Hummingbird < 3.4.2 - Unauthenticated Path Traversal | [Link](https://wpscan.com/vulnerability/512a9ba4-01c0-4614-a991-efdc7fe51abe) |
 | 18/10/2022 | ⚠️ | CVE-2022-40746 | OwnCloud URL spoofing in password reset mail | [Link](https://owncloud.com/security-advisories/url-spoofing-in-password-reset-mail/) |
 | 16/09/2022 | ⚠️ | CVE-2022-40746 | IBM i Access Client Solutions is vulnerable to DLL hijacking when run on a Windows operating system | [Link](https://www.ibm.com/support/pages/node/6840359) |
