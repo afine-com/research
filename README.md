@@ -4,6 +4,8 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 02/10/2023 | ⚠️ | CVE-2023-38419 | Denial of Service of Big-IQ iControl SOAP daemon by an attacker with guest privileges | [Link](https://my.f5.com/manage/s/article/K000133472) |
+| 02/10/2023 | ⚠️ | CVE-2023-38138 | Reflected Cross-site Scripting in BIG-IP Configuration utility | [Link](https://my.f5.com/manage/s/article/K000133474) |
 | 13/06/2023 | ⚠️ | CVE-2023-35840 | elFinder < 2.1.62 - Path Traversal vulnerability in PHP LocalVolumeDriver connector | [Link](https://github.com/Studio-42/elFinder/security/advisories/GHSA-wm5g-p99q-66g4) |
 | 20/03/2023 | ⚠️ | CVE-2023-1478 | Hummingbird < 3.4.2 - Unauthenticated Path Traversal | [Link](https://wpscan.com/vulnerability/512a9ba4-01c0-4614-a991-efdc7fe51abe) |
 | 16/03/2023 | ⚠️ | CVE-2023-28530 | IBM Cognos Analytics - Stored cross-site scripting caused by improper validation of SVG Files in Custom Visualizations | [Link](https://www.ibm.com/support/pages/node/7012621) |
