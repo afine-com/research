@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 08/08/2023 | ⚠️ | CVE-2023-35359 | Windows Kernel Elevation of Privilege Vulnerability | [Link](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2023-35359) | 
 | 25/07/2023 | ⚠️ | CVE-2023-39062 | \*\* RESERVED \*\* | [Link](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-39062) |
 | 02/10/2023 | ⚠️ | CVE-2023-38419 | Denial of Service of Big-IQ iControl SOAP daemon by an attacker with guest privileges | [Link](https://my.f5.com/manage/s/article/K000133472) |
 | 02/10/2023 | ⚠️ | CVE-2023-38138 | Reflected Cross-site Scripting in BIG-IP Configuration utility | [Link](https://my.f5.com/manage/s/article/K000133474) |
