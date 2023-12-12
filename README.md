@@ -4,7 +4,8 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
-| 06/11/2023 | ⚠️ | CVE-2023-5958  | POST SMTP Mailer < 2.7.1 - Unauthenticated Cross-site Scripting | [Link](https://wpscan.com/vulnerability/22fa478d-e42e-488d-9b4b-a8720dec7cee/) | 
+| 12/12/2023 | ⚠️ | CVE-2023-4932  | Reflected Cross-Site Scripting in SAS 9.4 | [Link](https://wpscan.com/vulnerability/22fa478d-e42e-488d-9b4b-a8720dec7cee/) | 
+| 06/11/2023 | ⚠️ | CVE-2023-5958  | POST SMTP Mailer < 2.7.1 - Unauthenticated Cross-site Scripting | [Link](https://www.cve.org/CVERecord?id=CVE-2023-4932) | 
 | 06/11/2023 | ⚠️ | CVE-2023-5209 | Bookly < 22.5 - Admin+ Stored XSS | [Link](https://wpscan.com/vulnerability/dea6077a-81ee-451f-b049-3749a2252c88/) | 
 | 08/08/2023 | ⚠️ | CVE-2023-35359 | Windows Kernel Elevation of Privilege Vulnerability | [Link](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2023-35359) | 
 | 25/07/2023 | ⚠️ | CVE-2023-39062 | Cross Site Scripting vulnerability in Spipu HTML2PDF before v.5.2.8 | [Link](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-39062) |
