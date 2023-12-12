@@ -4,9 +4,9 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
-| 12/12/2023 | ⚠️ | CVE-2023-4932  | Decryption key disclosure in IBM i Access Client Solutions due to improper authority checks | [Link](https://www.ibm.com/support/pages/node/7091942) | 
-| 12/12/2023 | ⚠️ | CVE-2023-4932  | Possibility to decrypt password-encryption key in IBM i Access Client Solutions allowing attacker to obtain passwords to other systems | [Link](https://www.ibm.com/support/pages/node/7091942) | 
-| 12/12/2023 | ⚠️ | CVE-2023-4932  | Remote Code Execution in IBM i Access Client Solutions | [Link](https://www.ibm.com/support/pages/node/7091942) | 
+| 12/12/2023 | ⚠️ | CVE-2023-45184 | Decryption key disclosure in IBM i Access Client Solutions due to improper authority checks | [Link](https://www.ibm.com/support/pages/node/7091942) | 
+| 12/12/2023 | ⚠️ | CVE-2023-45182 | Possibility to decrypt password-encryption key in IBM i Access Client Solutions allowing attacker to obtain passwords to other systems | [Link](https://www.ibm.com/support/pages/node/7091942) | 
+| 12/12/2023 | ⚠️ | CVE-2023-45185 | Remote Code Execution in IBM i Access Client Solutions | [Link](https://www.ibm.com/support/pages/node/7091942) | 
 | 12/12/2023 | ⚠️ | CVE-2023-4932  | Reflected Cross-Site Scripting in SAS 9.4 | [Link](https://www.cve.org/CVERecord?id=CVE-2023-4932) | 
 | 06/11/2023 | ⚠️ | CVE-2023-5958  | POST SMTP Mailer < 2.7.1 - Unauthenticated Cross-site Scripting | [Link](https://wpscan.com/vulnerability/22fa478d-e42e-488d-9b4b-a8720dec7cee/) | 
 | 06/11/2023 | ⚠️ | CVE-2023-5209 | Bookly < 22.5 - Admin+ Stored XSS | [Link](https://wpscan.com/vulnerability/dea6077a-81ee-451f-b049-3749a2252c88/) | 
