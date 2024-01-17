@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 11/01/2024 | ⚠️ | CVE-2023-5118 | Stored XSS in Kofax Capture software | [Link](https://cert.pl/en/posts/2024/01/CVE-2023-5118/) | 
 | 21/12/2023 | ⚠️ | CVE-2023-4925 | Easy Forms for Mailchimp <= 6.8.10 - Admin+ Stored Cross-Site Scripting | [Link](https://wpscan.com/vulnerability/0b094cba-9288-4c9c-87a9-bdce286fe8b6/) | 
 | 12/12/2023 | ⚠️ | CVE-2023-45184 | Decryption key disclosure in IBM i Access Client Solutions due to improper authority checks | [Link](https://www.ibm.com/support/pages/node/7091942) | 
 | 12/12/2023 | ⚠️ | CVE-2023-45182 | Possibility to decrypt password-encryption key in IBM i Access Client Solutions allowing attacker to obtain passwords to other systems | [Link](https://www.ibm.com/support/pages/node/7091942) | 
