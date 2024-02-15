@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 14/02/2024 | ⚠️ | CVE-2024-0010 | PAN-OS: Reflected Cross-Site Scripting (XSS) Vulnerability in GlobalProtect Portal | [Link](https://security.paloaltonetworks.com/CVE-2024-0010) | 
 | 07/02/2024 | ⚠️ | CVE-2024-24816 | Cross-site scripting (XSS) in CKEditor4 samples with the preview feature enabled | [Link](https://github.com/ckeditor/ckeditor4/security/advisories/GHSA-mw2c-vx6j-mg76) | 
 | 11/01/2024 | ⚠️ | CVE-2023-5118 | Stored XSS in Kofax Capture software | [Link](https://cert.pl/en/posts/2024/01/CVE-2023-5118/) | 
 | 21/12/2023 | ⚠️ | CVE-2023-4925 | Easy Forms for Mailchimp <= 6.8.10 - Admin+ Stored Cross-Site Scripting | [Link](https://wpscan.com/vulnerability/0b094cba-9288-4c9c-87a9-bdce286fe8b6/) | 
