@@ -4,6 +4,9 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 18/03/2024 | ⚠️ | CVE-2024-1606 | HTML injection in BMC Control-M | [Link](https://www.cve.org/CVERecord?id=CVE-2024-1606) |
+| 18/03/2024 | ⚠️ | CVE-2024-1605 | DLL side-loading in BMC Control-M | [Link](https://www.cve.org/CVERecord?id=CVE-2024-1605) |
+| 18/03/2024 | ⚠️ | CVE-2024-1604 | Incorrect authorization in BMC Control-M | [Link](https://www.cve.org/CVERecord?id=CVE-2024-1604) |
 | 14/02/2024 | ⚠️ | CVE-2024-0010 | PAN-OS: Reflected Cross-Site Scripting (XSS) Vulnerability in GlobalProtect Portal | [Link](https://security.paloaltonetworks.com/CVE-2024-0010) | 
 | 07/02/2024 | ⚠️ | CVE-2024-24816 | Cross-site scripting (XSS) in CKEditor4 samples with the preview feature enabled | [Link](https://github.com/ckeditor/ckeditor4/security/advisories/GHSA-mw2c-vx6j-mg76) | 
 | 11/01/2024 | ⚠️ | CVE-2023-5118 | Stored XSS in Kofax Capture software | [Link](https://cert.pl/en/posts/2024/01/CVE-2023-5118/) | 
