@@ -4,6 +4,9 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 09/05/2024 | ⚠️ | CVE-2024-3459 | KioWare for Windows environment escape | [Link](https://www.cve.org/CVERecord?id=CVE-2024-3459) |
+| 09/05/2024 | ⚠️ | CVE-2024-3460 | KioWare for Windows security control bypass | [Link](https://www.cve.org/CVERecord?id=CVE-2024-3460) |
+| 09/05/2024 | ⚠️ | CVE-2024-3461 | KioWare for Windows PIN brute force| [Link](https://www.cve.org/CVERecord?id=CVE-2024-3461) |
 | 18/03/2024 | ⚠️ | CVE-2024-1606 | HTML injection in BMC Control-M | [Link](https://www.cve.org/CVERecord?id=CVE-2024-1606) |
 | 18/03/2024 | ⚠️ | CVE-2024-1605 | DLL side-loading in BMC Control-M | [Link](https://www.cve.org/CVERecord?id=CVE-2024-1605) |
 | 18/03/2024 | ⚠️ | CVE-2024-1604 | Incorrect authorization in BMC Control-M | [Link](https://www.cve.org/CVERecord?id=CVE-2024-1604) |
