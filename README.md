@@ -4,6 +4,9 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 28/06/2024 | ⚠️ | CVE-2024-5737 | AdmirorFrames Joomla! Extension < 5.0 - HTML Injection | [Link](https://github.com/afine-com/CVE-2024-5737) |
+| 28/06/2024 | ⚠️ | CVE-2024-5736 | AdmirorFrames Joomla! Extension < 5.0 - Server-Side Request Forgery | [Link](https://github.com/afine-com/CVE-2024-5736) |
+| 28/06/2024 | ⚠️ | CVE-2024-5735 | AdmirorFrames Joomla! Extension < 5.0 - Full Path Disclosure | [Link](https://github.com/afine-com/CVE-2024-5735) |
 | 09/05/2024 | ⚠️ | CVE-2024-3459 | KioWare for Windows environment escape | [Link](https://www.cve.org/CVERecord?id=CVE-2024-3459) |
 | 09/05/2024 | ⚠️ | CVE-2024-3460 | KioWare for Windows security control bypass | [Link](https://www.cve.org/CVERecord?id=CVE-2024-3460) |
 | 09/05/2024 | ⚠️ | CVE-2024-3461 | KioWare for Windows PIN brute force| [Link](https://www.cve.org/CVERecord?id=CVE-2024-3461) |
