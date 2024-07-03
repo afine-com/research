@@ -4,7 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
-| 28/06/2024 | ⚠️ | CVE-2024-28797 | Stored Cross-site Scripting in InfoSphere DataStage Designer < 11.7.4 | [Link](https://www.ibm.com/support/pages/node/7158431) |
+| 28/06/2024 | ⚠️ | CVE-2024-28797 | Stored Cross-site Scripting in IBM InfoSphere DataStage Designer < 11.7.4 | [Link](https://www.ibm.com/support/pages/node/7158431) |
 | 28/06/2024 | ⚠️ | CVE-2024-28795 | Stored Cross-site Scripting in IBM InfoSphere Information Server < 11.7 | [Link](https://www.ibm.com/support/pages/node/7158408) |
 | 28/06/2024 | ⚠️ | CVE-2024-28794 | Stored Cross-site Scripting in IBM InfoSphere Information Server < 11.7 | [Link](https://www.ibm.com/support/pages/node/7158444) |
 | 28/06/2024 | ⚠️ | CVE-2024-5737 | AdmirorFrames Joomla! Extension < 5.0 - HTML Injection | [Link](https://github.com/afine-com/CVE-2024-5737) |
