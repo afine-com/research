@@ -10,6 +10,8 @@
 | 28/06/2024 | ⚠️ | CVE-2024-5737 | AdmirorFrames Joomla! Extension < 5.0 - HTML Injection | [Link](https://github.com/afine-com/CVE-2024-5737) |
 | 28/06/2024 | ⚠️ | CVE-2024-5736 | AdmirorFrames Joomla! Extension < 5.0 - Server-Side Request Forgery | [Link](https://github.com/afine-com/CVE-2024-5736) |
 | 28/06/2024 | ⚠️ | CVE-2024-5735 | AdmirorFrames Joomla! Extension < 5.0 - Full Path Disclosure | [Link](https://github.com/afine-com/CVE-2024-5735) |
+| 24/05/2024 | ⚠️ | CVE-2024-2218 | LuckyWP Table of Contents <= 2.1.4 - Admin+ Stored XSS | [Link](https://wpscan.com/vulnerability/ecd615f7-946e-45af-a610-0654a243b1dc/) |
+| 08/05/2024 | ⚠️ | CVE-2024-3050	| Site Reviews < 7.0.0 - IP Spoofing | [Link](https://wpscan.com/vulnerability/04c1581e-fd36-49d4-8463-b49915d4b1ac/) |
 | 09/05/2024 | ⚠️ | CVE-2024-3459 | KioWare for Windows environment escape | [Link](https://www.cve.org/CVERecord?id=CVE-2024-3459) |
 | 09/05/2024 | ⚠️ | CVE-2024-3460 | KioWare for Windows security control bypass | [Link](https://www.cve.org/CVERecord?id=CVE-2024-3460) |
 | 09/05/2024 | ⚠️ | CVE-2024-3461 | KioWare for Windows PIN brute force| [Link](https://www.cve.org/CVERecord?id=CVE-2024-3461) |
