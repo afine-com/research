@@ -4,6 +4,8 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 17/10/2024 | ⚠️ | CVE-2024-50312 | Information Disclosure via GraphQL Introspection in OpenShift | [Link](https://access.redhat.com/security/cve/cve-2024-50312) |
+| 17/10/2024 | ⚠️ | CVE-2024-50311 | OpenShift Denial of Service (DoS) | [Link](https://access.redhat.com/security/cve/cve-2024-50311) |
 | 31/07/2024 | ⚠️ | CVE-2024-41955 | Open Redirect in Login Redirect in MobSF <= 4.0.4 | [Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/security/advisories/GHSA-8m9j-2f32-2vx4) |
 | 28/06/2024 | ⚠️ | CVE-2024-28797 | Stored Cross-site Scripting in IBM InfoSphere DataStage Designer < 11.7.4 | [Link](https://www.ibm.com/support/pages/node/7158431) |
 | 28/06/2024 | ⚠️ | CVE-2024-28795 | Stored Cross-site Scripting in IBM InfoSphere Information Server < 11.7 | [Link](https://www.ibm.com/support/pages/node/7158408) |
