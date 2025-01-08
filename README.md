@@ -4,12 +4,13 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 02/01/2025 | ⚠️ | CVE-2024-12907 | Reflected Cross-Site Scripting in Kentico CMS | [Link](https://cert.pl/en/posts/2025/01/CVE-2024-12907/) |
 | 17/10/2024 | ⚠️ | CVE-2024-50312 | Information Disclosure via GraphQL Introspection in OpenShift | [Link](https://access.redhat.com/security/cve/cve-2024-50312) |
 | 17/10/2024 | ⚠️ | CVE-2024-50311 | OpenShift Denial of Service (DoS) | [Link](https://access.redhat.com/security/cve/cve-2024-50311) |
 | 31/07/2024 | ⚠️ | CVE-2024-41955 | Open Redirect in Login Redirect in MobSF <= 4.0.4 | [Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/security/advisories/GHSA-8m9j-2f32-2vx4) |
-| 28/06/2024 | ⚠️ | CVE-2024-28797 | Stored Cross-site Scripting in IBM InfoSphere DataStage Designer < 11.7.4 | [Link](https://www.ibm.com/support/pages/node/7158431) |
-| 28/06/2024 | ⚠️ | CVE-2024-28795 | Stored Cross-site Scripting in IBM InfoSphere Information Server < 11.7 | [Link](https://www.ibm.com/support/pages/node/7158408) |
-| 28/06/2024 | ⚠️ | CVE-2024-28794 | Stored Cross-site Scripting in IBM InfoSphere Information Server < 11.7 | [Link](https://www.ibm.com/support/pages/node/7158444) |
+| 28/06/2024 | ⚠️ | CVE-2024-28797 | Stored Cross-Site Scripting in IBM InfoSphere DataStage Designer < 11.7.4 | [Link](https://www.ibm.com/support/pages/node/7158431) |
+| 28/06/2024 | ⚠️ | CVE-2024-28795 | Stored Cross-Site Scripting in IBM InfoSphere Information Server < 11.7 | [Link](https://www.ibm.com/support/pages/node/7158408) |
+| 28/06/2024 | ⚠️ | CVE-2024-28794 | Stored Cross-Site Scripting in IBM InfoSphere Information Server < 11.7 | [Link](https://www.ibm.com/support/pages/node/7158444) |
 | 28/06/2024 | ⚠️ | CVE-2024-5737 | AdmirorFrames Joomla! Extension < 5.0 - HTML Injection | [Link](https://github.com/afine-com/CVE-2024-5737) |
 | 28/06/2024 | ⚠️ | CVE-2024-5736 | AdmirorFrames Joomla! Extension < 5.0 - Server-Side Request Forgery | [Link](https://github.com/afine-com/CVE-2024-5736) |
 | 28/06/2024 | ⚠️ | CVE-2024-5735 | AdmirorFrames Joomla! Extension < 5.0 - Full Path Disclosure | [Link](https://github.com/afine-com/CVE-2024-5735) |
@@ -26,13 +27,13 @@
 | 11/01/2024 | ⚠️ | CVE-2023-5118 | Stored XSS in Kofax Capture software | [Link](https://cert.pl/en/posts/2024/01/CVE-2023-5118/) | 
 | 21/12/2023 | ⚠️ | CVE-2023-4925 | Easy Forms for Mailchimp <= 6.8.10 - Admin+ Stored Cross-Site Scripting | [Link](https://wpscan.com/vulnerability/0b094cba-9288-4c9c-87a9-bdce286fe8b6/) | 
 | 12/12/2023 | ⚠️ | CVE-2023-45184 | Decryption key disclosure in IBM i Access Client Solutions due to improper authority checks | [Link](https://www.ibm.com/support/pages/node/7091942) | 
-| 12/12/2023 | ⚠️ | CVE-2023-45182 | Possibility to decrypt password-encryption key in IBM i Access Client Solutions allowing attacker to obtain passwords to other systems | [Link](https://www.ibm.com/support/pages/node/7091942) | 
+| 12/12/2023 | ⚠️ | CVE-2023-45182 | Possibility to decrypt password-encryption key in IBM i Access Client Solutions allowing an attacker to obtain passwords to other systems | [Link](https://www.ibm.com/support/pages/node/7091942) | 
 | 12/12/2023 | ⚠️ | CVE-2023-45185 | Remote Code Execution in IBM i Access Client Solutions | [Link](https://www.ibm.com/support/pages/node/7091942) | 
 | 12/12/2023 | ⚠️ | CVE-2023-4932  | Reflected Cross-Site Scripting in SAS 9.4 | [Link](https://www.cve.org/CVERecord?id=CVE-2023-4932) | 
 | 06/11/2023 | ⚠️ | CVE-2023-5958  | POST SMTP Mailer < 2.7.1 - Unauthenticated Cross-site Scripting | [Link](https://wpscan.com/vulnerability/22fa478d-e42e-488d-9b4b-a8720dec7cee/) | 
 | 06/11/2023 | ⚠️ | CVE-2023-5209 | Bookly < 22.5 - Admin+ Stored XSS | [Link](https://wpscan.com/vulnerability/dea6077a-81ee-451f-b049-3749a2252c88/) | 
 | 08/08/2023 | ⚠️ | CVE-2023-35359 | Windows Kernel Elevation of Privilege Vulnerability | [Link](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2023-35359) | 
-| 25/07/2023 | ⚠️ | CVE-2023-39062 | Cross Site Scripting vulnerability in Spipu HTML2PDF before v.5.2.8 | [Link](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-39062) |
+| 25/07/2023 | ⚠️ | CVE-2023-39062 | Cross-Site Scripting vulnerability in Spipu HTML2PDF before v.5.2.8 | [Link](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-39062) |
 | 02/10/2023 | ⚠️ | CVE-2023-38419 | Denial of Service of Big-IQ iControl SOAP daemon by an attacker with guest privileges | [Link](https://my.f5.com/manage/s/article/K000133472) |
 | 02/10/2023 | ⚠️ | CVE-2023-38138 | Reflected Cross-site Scripting in BIG-IP Configuration utility | [Link](https://my.f5.com/manage/s/article/K000133474) |
 | 13/06/2023 | ⚠️ | CVE-2023-35840 | elFinder < 2.1.62 - Path Traversal vulnerability in PHP LocalVolumeDriver connector | [Link](https://github.com/Studio-42/elFinder/security/advisories/GHSA-wm5g-p99q-66g4) |
