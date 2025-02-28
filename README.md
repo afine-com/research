@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 28/02/2025 | ⚠️ | CVE-2025-1413 | DaVinci Resolve Dylib Hijacking | [Link](https://www.cve.org/CVERecord?id=CVE-2025-1413) |
 | 02/01/2025 | ⚠️ | CVE-2024-12907 | Reflected Cross-Site Scripting in Kentico CMS | [Link](https://cert.pl/en/posts/2025/01/CVE-2024-12907/) |
 | 17/10/2024 | ⚠️ | CVE-2024-50312 | Information Disclosure via GraphQL Introspection in OpenShift | [Link](https://access.redhat.com/security/cve/cve-2024-50312) |
 | 17/10/2024 | ⚠️ | CVE-2024-50311 | OpenShift Denial of Service (DoS) | [Link](https://access.redhat.com/security/cve/cve-2024-50311) |
