@@ -4,7 +4,8 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
-| 26/03/2025 | ⚠️ | CVE-2025-2098 | Dylib Hijacking in Fast CAD Reader | [Link](https://www.cve.org/CVERecord?id=CVE-2025-2098) |
+| 26/03/2025 | ⚠️ | CVE-2025-2098 | SAP GUI - Insecure Key & Secret Management | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2025-24870) |
+| 18/02/2025 | ⚠️ | CVE-2025-24870 | Dylib Hijacking in Fast CAD Reader | [Link](https://www.cve.org/CVERecord?id=CVE-2025-2098) |
 | 06/03/2025 | ⚠️ | CVE-2024-13892 | Command Injection in Smartwares cameras | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-13892) |
 | 06/03/2025 | ⚠️ | CVE-2024-13893 | Shared credentials in Smartwares cameras | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-13893) |
 | 06/03/2025 | ⚠️ | CVE-2024-13894 | Path traversal in Smartwares cameras | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-13894) |
