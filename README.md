@@ -14,7 +14,7 @@
 | 28/02/2025 | ⚠️ | CVE-2025-22273 | Lack of rate-limiting in password change mechanism in CyberArk Endpoint Privilege Manager | [Link](https://www.cve.org/CVERecord?id=CVE-2025-22273) |
 | 28/02/2025 | ⚠️ | CVE-2025-22274 | HTML injection in CyberArk Endpoint Privilege Manager | [Link](https://www.cve.org/CVERecord?id=CVE-2025-22274) |
 | 28/02/2025 | ⚠️ | CVE-2025-1413 | DaVinci Resolve Dylib Hijacking | [Link](https://www.cve.org/CVERecord?id=CVE-2025-1413) |
-| 02/01/2025 | ⚠️ | CVE-2024-12907 | Reflected Cross-Site Scripting in Kentico CMS | [Link](https://cert.pl/en/posts/2025/01/CVE-2024-12907/) |
+| 02/01/2025 | ⚠️ | CVE-2024-12907 | Reflected Cross-Site Scripting in Kentico CMS | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-12907) |
 | 17/10/2024 | ⚠️ | CVE-2024-50312 | Information Disclosure via GraphQL Introspection in OpenShift | [Link](https://access.redhat.com/security/cve/cve-2024-50312) |
 | 17/10/2024 | ⚠️ | CVE-2024-50311 | OpenShift Denial of Service (DoS) | [Link](https://access.redhat.com/security/cve/cve-2024-50311) |
 | 31/07/2024 | ⚠️ | CVE-2024-41955 | Open Redirect in Login Redirect in MobSF <= 4.0.4 | [Link](https://github.com/MobSF/Mobile-Security-Framework-MobSF/security/advisories/GHSA-8m9j-2f32-2vx4) |
