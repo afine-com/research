@@ -4,6 +4,17 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 14/04/2025 | ⚠️ | CVE-2024-10087 | Reflected Cross-Site Scripting in SoftCOM iKSORIS Internet Starter Module | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-10087) |
+| 14/04/2025 | ⚠️ | CVE-2024-10088 | Reflected Cross-Site Scripting in SoftCOM iKSORIS Internet Starter Module | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-10088) |
+| 14/04/2025 | ⚠️ | CVE-2024-10089 | Stored Cross-Site Scripting in SoftCOM iKSORIS Internet Starter Module | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-10089) |
+| 14/04/2025 | ⚠️ | CVE-2024-10090 | Reflected Cross-Site Scripting in SoftCOM iKSORIS Internet Starter Module | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-10090) |
+| 14/04/2025 | ⚠️ | CVE-2024-13597 | Reflected Cross-Site Scripting in SoftCOM iKSORIS Internet Starter Module | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-13597) |
+| 14/04/2025 | ⚠️ | CVE-2024-13598 | Reflected Cross-Site Scripting in SoftCOM iKSORIS Internet Starter Module | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-13598) |
+| 14/04/2025 | ⚠️ | CVE-2024-49705 | Client-Side Denial of Service in SoftCOM iKSORIS Internet Starter Module | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-49705) |
+| 14/04/2025 | ⚠️ | CVE-2024-49706 | Open Redirect in SoftCOM iKSORIS Internet Starter Module | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-49706) |
+| 14/04/2025 | ⚠️ | CVE-2024-49707 | Reflected Cross-Site Scripting in SoftCOM iKSORIS Internet Starter Module | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-49707) |
+| 14/04/2025 | ⚠️ | CVE-2024-49708 | Stored Cross-Site Scripting in SoftCOM iKSORIS Internet Starter Module | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-49708) |
+| 14/04/2025 | ⚠️ | CVE-2024-49709 | Session Fixation in SoftCOM iKSORIS Internet Starter Module |
 | 26/03/2025 | ⚠️ | CVE-2025-2098 | Dylib Hijacking in Fast CAD Reader | [Link](https://www.cve.org/CVERecord?id=CVE-2025-2098) |
 | 11/03/2025 | ⚠️ | CVE-2025-25242 | SAP NetWeaver Application Server ABAP - Cross-Site Scripting (XSS) | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2025-25242) |
 | 18/02/2025 | ⚠️ | CVE-2025-24870 | SAP GUI - Insecure Key & Secret Management | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2025-24870) |
