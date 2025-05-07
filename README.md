@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 18/04/2025 | ⚠️ | CC-2390 | Local Privilege Escalation Due to Incorrect DLL Permissions in KeeperChat on macOS | [Link](https://docs.keeper.io/en/release-notes/desktop/keeperchat/keeperchat-client-release-17.0) |
 | 14/04/2025 | ⚠️ | CVE-2024-10087 | Reflected Cross-Site Scripting in SoftCOM iKSORIS Internet Starter Module | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-10087) |
 | 14/04/2025 | ⚠️ | CVE-2024-10088 | Reflected Cross-Site Scripting in SoftCOM iKSORIS Internet Starter Module | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-10088) |
 | 14/04/2025 | ⚠️ | CVE-2024-10089 | Stored Cross-Site Scripting in SoftCOM iKSORIS Internet Starter Module | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-10089) |
