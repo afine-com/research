@@ -4,6 +4,8 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 14/05/2025 | ⚠️ | CVE-2024-10864 | SQL Injection in OpenText Advance Authentication | [Link](https://nvd.nist.gov/vuln/detail/CVE-2024-10864) |
+| 14/05/2025 | ⚠️ | CVE-2024-10865 | Cross-site Scripting in OpenText Advance Authentication | [Link](https://nvd.nist.gov/vuln/detail/CVE-2024-10865) |
 | 18/04/2025 | ⚠️ | CC-2390 | Local Privilege Escalation Due to Incorrect DLL Permissions in KeeperChat on macOS | [Link](https://docs.keeper.io/en/release-notes/desktop/keeperchat/keeperchat-client-release-17.0) |
 | 14/04/2025 | ⚠️ | CVE-2024-10087 | Reflected Cross-Site Scripting in SoftCOM iKSORIS Internet Starter Module | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-10087) |
 | 14/04/2025 | ⚠️ | CVE-2024-10088 | Reflected Cross-Site Scripting in SoftCOM iKSORIS Internet Starter Module | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-10088) |
