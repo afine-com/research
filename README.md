@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 20/05/2025 | ⚠️ | CVE-2025-4951 | Stored Cross-Site Scripting in Rapid7 AppSpider Pro | [Link](https://www.cve.org/CVERecord?id=CVE-2025-4951) |
 | 14/05/2025 | ⚠️ | CVE-2024-10864 | SQL Injection in OpenText Advanced Authentication (NetIQ) | [Link](https://nvd.nist.gov/vuln/detail/CVE-2024-10864) |
 | 14/05/2025 | ⚠️ | CVE-2024-10865 | Cross-site Scripting in OpenText Advanced Authentication (NetIQ) | [Link](https://nvd.nist.gov/vuln/detail/CVE-2024-10865) |
 | 18/04/2025 | ⚠️ | CC-2390 | Local Privilege Escalation Due to Incorrect DLL Permissions in KeeperChat on macOS | [Link](https://docs.keeper.io/en/release-notes/desktop/keeperchat/keeperchat-client-release-17.0) |
