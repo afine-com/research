@@ -4,6 +4,9 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 22/05/2025 | ⚠️ | CVE-2024-52887 | Check Point Mobile Access portal SNX bookmarks - Cross-Site Scripting (XSS) | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-52887) |
+| 22/05/2025 | ⚠️ | CVE-2024-52888 | Check Point Mobile Access portal File Share application - Cross-Site Scripting (XSS) | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-52887://github.com/afine-com/research/tree/master/advisories/CVE-2024-52888) |
+| 22/05/2025 | ⚠️ | CVE-2025-4951 | Check Point Mobile Access portal SNX bookmarks - Cross-Site Scripting (XSS) | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-52887) |
 | 20/05/2025 | ⚠️ | CVE-2025-4951 | Stored Cross-Site Scripting in Rapid7 AppSpider Pro | [Link](https://www.cve.org/CVERecord?id=CVE-2025-4951) |
 | 14/05/2025 | ⚠️ | CVE-2024-10864 | SQL Injection in OpenText Advanced Authentication (NetIQ) | [Link](https://nvd.nist.gov/vuln/detail/CVE-2024-10864) |
 | 14/05/2025 | ⚠️ | CVE-2024-10865 | Cross-site Scripting in OpenText Advanced Authentication (NetIQ) | [Link](https://nvd.nist.gov/vuln/detail/CVE-2024-10865) |
