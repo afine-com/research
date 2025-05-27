@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 27/05/2025 | ⚠️ | CVE-2025-4412 | TCC Bypass via Dylib Loading in Viscosity.app | [Link](https://www.cve.org/CVERecord?id=CVE-2025-4412) |
 | 22/05/2025 | ⚠️ | CVE-2025-4280 | TCC Bypass via Inherited Permissions in Bundled Interpreter in Poedit.app | [Link](https://www.cve.org/CVERecord?id=CVE-2025-4280) |
 | 21/05/2025 | ⚠️ | CVE-2025-1415 | Low-privileged Proget MDM users can access task and device details, including UUIDs, via brute-forced task IDs | [Link](https://www.cve.org/CVERecord?id=CVE-2025-1415) |
 | 21/05/2025 | ⚠️ | CVE-2025-1416 | Low-privileged Proget MDM users can retrieve device passwords using known UUIDs from CVE-2025-1415 or CVE-2025-1417 | [Link](https://www.cve.org/CVERecord?id=CVE-2025-1416) |
