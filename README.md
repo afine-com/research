@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 19/06/2025 | ⚠️ | CVE-2024-24916 | DLL HiJacking in SmartConsole for R82 | [Link](https://www.cve.org/CVERecord?id=CVE-2024-24916) |
 | 28/05/2025 | ⚠️ | CVE-2025-4081 | TCC Bypass via Dylib Substitution in DaVinci Resolve | [Link](https://www.cve.org/CVERecord?id=CVE-2025-4081) |
 | 27/05/2025 | ⚠️ | CVE-2025-4412 | TCC Bypass via Dylib Loading in Viscosity.app | [Link](https://www.cve.org/CVERecord?id=CVE-2025-4412) |
 | 22/05/2025 | ⚠️ | CVE-2025-4280 | TCC Bypass via Inherited Permissions in Bundled Interpreter in Poedit.app | [Link](https://www.cve.org/CVERecord?id=CVE-2025-4280) |
