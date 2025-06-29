@@ -4,7 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
-| 29/06/2025 | ⚠️ | CVE-2024-24915 | Credential Exposure via Memory Dump in SmartConsole | [Link](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-24915)) |
+| 29/06/2025 | ⚠️ | CVE-2024-24915 | Credential Exposure via Memory Dump in SmartConsole | [Link](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-24915) |
 | 20/06/2025 | ⚠️ | CVE-2025-5963 | TCC Bypass via Dylib Injection in Postbox | [Link](https://www.cve.org/CVERecord?id=CVE-2025-5963) |
 | 20/06/2025 | ⚠️ | CVE-2025-5255 | TCC Bypass via Dylib Injection in Phoenix Code | [Link](https://www.cve.org/CVERecord?id=CVE-2025-5255) |
 | 19/06/2025 | ⚠️ | CVE-2024-24916 | DLL HiJacking in SmartConsole for R82 | [Link](https://www.cve.org/CVERecord?id=CVE-2024-24916) |
