@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 07/08/2025 | ⚠️ | CVE-2025-8533 | Incorrect Authorization of XPC Service in Fantastical.app | [Link](https://www.cve.org/CVERecord?id=CVE-2025-8533)
 | 25/07/2025 | ⚠️ | CVE-2025-22165 | Local Privilege Escalation in Sourcetree for Mac | [Link](https://www.cve.org/CVERecord?id=CVE-2025-22165)
 | 24/07/2025 | ⚠️ | CVE-2024-33510 | SSLVPN WEB UI Text injection | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-33510) 
 | 08/07/2025 | ⚠️ | CVE-2025-42979 | SAP GUI - Insecure Key & Secret Management | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2025-42979) |
