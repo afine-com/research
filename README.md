@@ -30,6 +30,10 @@
 | 27/04/2025 | ⚠️ | CVE-2024-52887 | Check Point Mobile Access portal SNX bookmarks - Cross-Site Scripting (XSS) | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-52887) |
 | 27/04/2025 | ⚠️ | CVE-2024-52888 | Check Point Mobile Access portal File Share application - Cross-Site Scripting (XSS) | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-52888) |
 | 18/04/2025 | ⚠️ | CC-2390 | Local Privilege Escalation Due to Incorrect DLL Permissions in KeeperChat on macOS | [Link](https://docs.keeper.io/en/release-notes/desktop/keeperchat/keeperchat-client-release-17.0) |
+| 16/04/2025 | ⚠️ | CVE-2025-1983 | Ready_ Symfonia eDokumenty - Cross Site Scripting | [Link](https://cert.pl/posts/2025/04/CVE-2025-1983/) |
+| 16/04/2025 | ⚠️ | CVE-2025-1982 | Ready_ Symfonia eDokumenty - Local File Inclusion | [Link](https://cert.pl/posts/2025/04/CVE-2025-1982/) |
+| 16/04/2025 | ⚠️ | CVE-2025-1981 | Ready_ Symfonia eDokumenty - SQL Injection | [Link](https://cert.pl/posts/2025/04/CVE-2025-1981/) |
+| 16/04/2025 | ⚠️ | CVE-2025-1980 | Ready_ Symfonia eDokumenty - Remote Code Execution | [Link](https://cert.pl/posts/2025/04/CVE-2025-1980/) |
 | 14/04/2025 | ⚠️ | CVE-2024-10087 | Reflected Cross-Site Scripting in SoftCOM iKSORIS Internet Starter Module | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-10087) |
 | 14/04/2025 | ⚠️ | CVE-2024-10088 | Reflected Cross-Site Scripting in SoftCOM iKSORIS Internet Starter Module | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-10088) |
 | 14/04/2025 | ⚠️ | CVE-2024-10089 | Stored Cross-Site Scripting in SoftCOM iKSORIS Internet Starter Module | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-10089) |
@@ -73,6 +77,7 @@
 | 18/03/2024 | ⚠️ | CVE-2024-1604 | Incorrect authorization in BMC Control-M | [Link](https://www.cve.org/CVERecord?id=CVE-2024-1604) |
 | 14/02/2024 | ⚠️ | CVE-2024-0010 | PAN-OS: Reflected Cross-Site Scripting (XSS) Vulnerability in GlobalProtect Portal | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-0010) | 
 | 07/02/2024 | ⚠️ | CVE-2024-24816 | Cross-site scripting (XSS) in CKEditor4 samples with the preview feature enabled | [Link](https://github.com/ckeditor/ckeditor4/security/advisories/GHSA-mw2c-vx6j-mg76) | 
+| 31/01/2024 | ⚠️ | CVE-2022-47072 | Sparx Systems - Enterprise Architect SQL Injection | [Link](https://www.cve.org/CVERecord?id=CVE-2022-47072) | 
 | 11/01/2024 | ⚠️ | CVE-2023-5118 | Stored XSS in Kofax Capture software | [Link](https://cert.pl/en/posts/2024/01/CVE-2023-5118/) | 
 | 21/12/2023 | ⚠️ | CVE-2023-4925 | Easy Forms for Mailchimp <= 6.8.10 - Admin+ Stored Cross-Site Scripting | [Link](https://wpscan.com/vulnerability/0b094cba-9288-4c9c-87a9-bdce286fe8b6/) | 
 | 12/12/2023 | ⚠️ | CVE-2023-45184 | Decryption key disclosure in IBM i Access Client Solutions due to improper authority checks | [Link](https://www.ibm.com/support/pages/node/7091942) | 
