@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 26/08/2025 | ⚠️ | CVE-2025-53811 | TCC Bypass via misconfigured Node fuses in Mosh-Pro | [Link](https://www.cve.org/CVERecord?id=CVE-2025-53811)
 | 11/08/2025 | ⚠️ | CVE-2025-8672 | TCC Bypass via Inherited Permissions in Bundled Interpreter in GIMP.app | [Link](https://www.cve.org/CVERecord?id=CVE-2025-8672)
 | 07/08/2025 | ⚠️ | CVE-2025-8533 | Incorrect Authorization of XPC Service in Fantastical.app | [Link](https://www.cve.org/CVERecord?id=CVE-2025-8533)
 | 25/07/2025 | ⚠️ | CVE-2025-22165 | Local Privilege Escalation in Sourcetree for Mac | [Link](https://www.cve.org/CVERecord?id=CVE-2025-22165)
