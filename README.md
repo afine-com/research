@@ -4,6 +4,10 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 26/08/2025 | ⚠️ | CVE-2025-8700 | Privilege Escalation via get-task-allow entitlement in Invoice Ninja | [Link](https://www.cve.org/CVERecord?id=CVE-2025-8700)
+| 26/08/2025 | ⚠️ | CVE-2025-8597 | Privilege Escalation via get-task-allow entitlement in MacVim | [Link](https://www.cve.org/CVERecord?id=CVE-2025-8597)
+| 26/08/2025 | ⚠️ | CVE-2025-53813 | TCC Bypass via misconfigured Node fuses in Nozbe | [Link](https://www.cve.org/CVERecord?id=CVE-2025-53813)
+| 26/08/2025 | ⚠️ | CVE-2025-9190 | TCC Bypass via misconfigured Node fuses in Cursor | [Link](https://www.cve.org/CVERecord?id=CVE-2025-9190)
 | 26/08/2025 | ⚠️ | CVE-2025-53811 | TCC Bypass via misconfigured Node fuses in Mosh-Pro | [Link](https://www.cve.org/CVERecord?id=CVE-2025-53811)
 | 11/08/2025 | ⚠️ | CVE-2025-8672 | TCC Bypass via Inherited Permissions in Bundled Interpreter in GIMP.app | [Link](https://www.cve.org/CVERecord?id=CVE-2025-8672)
 | 07/08/2025 | ⚠️ | CVE-2025-8533 | Incorrect Authorization of XPC Service in Fantastical.app | [Link](https://www.cve.org/CVERecord?id=CVE-2025-8533)
