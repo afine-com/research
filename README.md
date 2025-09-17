@@ -4,6 +4,8 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 16/09/2025 | ⚠️ | CVE-2025-10015 | TCC Bypass via Downloader XPC Service in Sparkle | [Link](https://cve.org/CVERecord?id=CVE-2025-10015)
+| 16/09/2025 | ⚠️ | CVE-2025-10016 | Local Privilege Escalation in Sparkle Autoupdate Daemon | [Link](https://cve.org/CVERecord?id=CVE-2025-10016)
 | 16/09/2025 | ⚠️ | CVE-2025-42945 | HTML Injection Vulnerability In SAP NetWeaver Application Server ABAP | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2025-42945)
 | 16/09/2025 | ⚠️ | CVE-2025-42943 | SAP GUI - NTLM Hash Hijacking via UNC Paths | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2025-42943)
 | 26/08/2025 | ⚠️ | CVE-2025-8700 | Privilege Escalation via get-task-allow entitlement in Invoice Ninja | [Link](https://www.cve.org/CVERecord?id=CVE-2025-8700)
