@@ -4,7 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
-| 25/09/2025 | ⚠️ | CVE-2025-36857 | [Link](https://www.cve.org/CVERecord?id=CVE-2025-36857)
+| 25/09/2025 | ⚠️ | CVE-2025-36857 | Rapid7 Appspider Broken Access Control | [Link](https://www.cve.org/CVERecord?id=CVE-2025-36857)
 | 16/09/2025 | ⚠️ | CVE-2025-10015 | TCC Bypass via Downloader XPC Service in Sparkle | [Link](https://cve.org/CVERecord?id=CVE-2025-10015)
 | 16/09/2025 | ⚠️ | CVE-2025-10016 | Local Privilege Escalation in Sparkle Autoupdate Daemon | [Link](https://cve.org/CVERecord?id=CVE-2025-10016)
 | 16/09/2025 | ⚠️ | CVE-2025-42945 | HTML Injection Vulnerability In SAP NetWeaver Application Server ABAP | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2025-42945)
