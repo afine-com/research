@@ -16,6 +16,7 @@
 | 26/08/2025 | ⚠️ | CVE-2025-53811 | TCC Bypass via misconfigured Node fuses in Mosh-Pro | [Link](https://www.cve.org/CVERecord?id=CVE-2025-53811)
 | 11/08/2025 | ⚠️ | CVE-2025-8672 | TCC Bypass via Inherited Permissions in Bundled Interpreter in GIMP.app | [Link](https://www.cve.org/CVERecord?id=CVE-2025-8672)
 | 07/08/2025 | ⚠️ | CVE-2025-8533 | Incorrect Authorization of XPC Service in Fantastical.app | [Link](https://www.cve.org/CVERecord?id=CVE-2025-8533)
+| 06/08/2025 | ⚠️ | CVE-2024-52885 | Check Point Mobile Access File Share directory traversal attacks | [Link](https://www.cve.org/CVERecord?id=CVE-2024-52885)
 | 25/07/2025 | ⚠️ | CVE-2025-22165 | Local Privilege Escalation in Sourcetree for Mac | [Link](https://www.cve.org/CVERecord?id=CVE-2025-22165)
 | 24/07/2025 | ⚠️ | CVE-2024-33510 | SSLVPN WEB UI Text injection | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-33510) 
 | 08/07/2025 | ⚠️ | CVE-2025-42979 | SAP GUI - Insecure Key & Secret Management | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2025-42979) |
