@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 22/01/2026 | ⚠️ | CVE-2025-15523 | TCC Bypass via Inherited Permissions in Bundled Interpreter in Inkscape.app | [Link](https://www.cve.org/CVERecord?id=CVE-2025-15523)
 | 14/01/2026 | ⚠️ | CVE-2025-13175 | Insecure Password Storage in Y Soft SafeQ 6 | [Link](https://www.cve.org/CVERecord?id=CVE-2025-13175)
 | 15/12/2025 | ⚠️ | CVE-2025-14714 | TCC Bypass via Inherited Permissions in Bundled Interpreter | [Link](https://www.libreoffice.org/about-us/security/advisories/cve-2025-14714)
 | 10/12/2025 | ⚠️ | CVE-2025-64897 | Local Privilege Escalation due to world-writeable permissions in Adobe ColdFusion | [Link](https://helpx.adobe.com/security/products/coldfusion/apsb25-105.html)
