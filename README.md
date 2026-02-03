@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 10/11/2024 | ⚠️ | CVE-2024-5848 | WSO2 API Manager - Reflected Cross-Site Scripting (XSS) | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-5848)
 | 22/01/2026 | ⚠️ | CVE-2025-15523 | TCC Bypass via Inherited Permissions in Bundled Interpreter in Inkscape.app | [Link](https://www.cve.org/CVERecord?id=CVE-2025-15523)
 | 14/01/2026 | ⚠️ | CVE-2025-13175 | Insecure Password Storage in Y Soft SafeQ 6 | [Link](https://www.cve.org/CVERecord?id=CVE-2025-13175)
 | 15/12/2025 | ⚠️ | CVE-2025-14714 | TCC Bypass via Inherited Permissions in Bundled Interpreter | [Link](https://www.libreoffice.org/about-us/security/advisories/cve-2025-14714)
