@@ -4,7 +4,6 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
-| 10/11/2024 | ⚠️ | CVE-2024-5848 | WSO2 API Manager - Reflected Cross-Site Scripting (XSS) | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-5848)
 | 22/01/2026 | ⚠️ | CVE-2025-15523 | TCC Bypass via Inherited Permissions in Bundled Interpreter in Inkscape.app | [Link](https://www.cve.org/CVERecord?id=CVE-2025-15523)
 | 14/01/2026 | ⚠️ | CVE-2025-13175 | Insecure Password Storage in Y Soft SafeQ 6 | [Link](https://www.cve.org/CVERecord?id=CVE-2025-13175)
 | 15/12/2025 | ⚠️ | CVE-2025-14714 | TCC Bypass via Inherited Permissions in Bundled Interpreter | [Link](https://www.libreoffice.org/about-us/security/advisories/cve-2025-14714)
@@ -41,6 +40,7 @@
 | 21/05/2025 | ⚠️ | CVE-2025-1420 | Unsanitized activation messages in Proget Console allow stored XSS attacks by high-privileged users | [Link](https://www.cve.org/CVERecord?id=CVE-2025-1420) |
 | 21/05/2025 | ⚠️ | CVE-2025-1421 | Activation data saved in Proget Console database may lead to remote code execution via malicious CSV opened in Excel | [Link](https://www.cve.org/CVERecord?id=CVE-2025-1421) |
 | 20/05/2025 | ⚠️ | CVE-2025-4951 | Stored Cross-Site Scripting in Rapid7 AppSpider Pro | [Link](https://www.cve.org/CVERecord?id=CVE-2025-4951) |
+| 10/11/2024 | ⚠️ | CVE-2024-5848 | WSO2 API Manager - Reflected Cross-Site Scripting (XSS) | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-5848)
 | 14/05/2025 | ⚠️ | CVE-2024-10864 | SQL Injection in OpenText Advanced Authentication (NetIQ) | [Link](https://nvd.nist.gov/vuln/detail/CVE-2024-10864) |
 | 14/05/2025 | ⚠️ | CVE-2024-10865 | Cross-site Scripting in OpenText Advanced Authentication (NetIQ) | [Link](https://nvd.nist.gov/vuln/detail/CVE-2024-10865) |
 | 27/04/2025 | ⚠️ | CVE-2024-52887 | Check Point Mobile Access portal SNX bookmarks - Cross-Site Scripting (XSS) | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2024-52887) |
