@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 20/04/2026 | ⚠️ | CVE-2026-5958 | Race Condition in GNU Sed | [Link](https://www.cve.org/CVERecord?id=CVE-2026-5958)
 | 07/04/2026 | ⚠️ | CVE-2026-33866 | Authorization Bypass in MLflow AJAX Endpoint | [Link](https://www.cve.org/CVERecord?id=CVE-2026-33866)
 | 07/04/2026 | ⚠️ | CVE-2026-33865 | Stored XSS via unsafe YAML parsing in MLflow | [Link](https://www.cve.org/CVERecord?id=CVE-2026-33865)
 | 06/04/2026 | ⚠️ | CVE-2026-35177 | Path traversal in Vim < v9.2.0280 | [Link](https://nvd.nist.gov/vuln/detail/CVE-2026-35177)
