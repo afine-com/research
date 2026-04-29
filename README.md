@@ -4,10 +4,10 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
-| 20/04/2026 | ⚠️ | CVE-2026-5958 | Race Condition in GNU Sed | [Link](https://www.cve.org/CVERecord?id=CVE-2026-5958)
+| 20/04/2026 | ⚠️ | CVE-2026-5958 | Race Condition in GNU Sed | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-5958)
 | 07/04/2026 | ⚠️ | CVE-2026-33866 | Authorization Bypass in MLflow AJAX Endpoint | [Link](https://www.cve.org/CVERecord?id=CVE-2026-33866)
 | 07/04/2026 | ⚠️ | CVE-2026-33865 | Stored XSS via unsafe YAML parsing in MLflow | [Link](https://www.cve.org/CVERecord?id=CVE-2026-33865)
-| 06/04/2026 | ⚠️ | CVE-2026-35177 | Path traversal in Vim < v9.2.0280 | [Link](https://nvd.nist.gov/vuln/detail/CVE-2026-35177)
+| 06/04/2026 | ⚠️ | CVE-2026-35177 | Path traversal in Vim < v9.2.0280 | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-35177)
 | 04/02/2026 | ⚠️ | CVE-2026-20732 | F5 BIG-IP Configuration Utility - Reflected Content Injection | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-20732)
 | 22/01/2026 | ⚠️ | CVE-2025-15523 | TCC Bypass via Inherited Permissions in Bundled Interpreter in Inkscape.app | [Link](https://www.cve.org/CVERecord?id=CVE-2025-15523)
 | 14/01/2026 | ⚠️ | CVE-2025-13175 | Insecure Password Storage in Y Soft SafeQ 6 | [Link](https://www.cve.org/CVERecord?id=CVE-2025-13175)
