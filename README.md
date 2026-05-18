@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 11/05/2026 | ⚠️ | CVE-2026-6956 | Reflected Cross-Site Scripting in ATutor `/install/install.php` | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-6956)
 | 11/05/2026 | ⚠️ | CVE-2026-6909 | Reflected Cross-Site Scripting in ATutor `/install/upgrade.php` | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-6909)
 | 28/04/2026 | ⚠️ | CVE-2026-6842 | Insecure Directory Permissions in GNU nano Leading to Privilege Abuse | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-6842)
 | 20/04/2026 | ⚠️ | CVE-2026-5958 | Race Condition in GNU Sed | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-5958)
