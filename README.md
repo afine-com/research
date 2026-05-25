@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 25/05/2026 | ⚠️ | CVE-2026-40127 | Authorization Bypass Through User-Controlled Key in OutSystems Lifetime | [Link](https://www.cve.org/CVERecord?id=CVE-2026-40127)
 | 11/05/2026 | ⚠️ | CVE-2026-6956 | Reflected Cross-Site Scripting in ATutor `/install/install.php` | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-6956)
 | 11/05/2026 | ⚠️ | CVE-2026-6909 | Reflected Cross-Site Scripting in ATutor `/install/upgrade.php` | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-6909)
 | 28/04/2026 | ⚠️ | CVE-2026-6842 | Insecure Directory Permissions in GNU nano Leading to Privilege Abuse | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-6842)
