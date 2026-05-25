@@ -5,6 +5,7 @@
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
 | 25/05/2026 | ⚠️ | CVE-2026-40127 | Authorization Bypass Through User-Controlled Key in OutSystems Lifetime | [Link](https://www.cve.org/CVERecord?id=CVE-2026-40127)
+| 22/05/2026 | ⚠️ | CVE-2026-8997 | Heap Buffer Overflow in vifm History Merge via Crafted vifminfo.json | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-8997)
 | 14/05/2026 | ⚠️ | CVE-2026-8295 | Integer Overflow in simdjson Leading to Out-of-Bounds Read | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-8295)
 | 11/05/2026 | ⚠️ | CVE-2026-6956 | Reflected Cross-Site Scripting in ATutor `/install/install.php` | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-6956)
 | 11/05/2026 | ⚠️ | CVE-2026-6909 | Reflected Cross-Site Scripting in ATutor `/install/upgrade.php` | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-6909)
