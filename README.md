@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 28/05/2026 | ⚠️ | CVE-2026-42250 | bzip2recover Off-by-One Error Leading to Global Buffer Overflow | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-42250)
 | 25/05/2026 | ⚠️ | CVE-2026-40127 | Authorization Bypass Through User-Controlled Key in OutSystems Lifetime | [Link](https://www.cve.org/CVERecord?id=CVE-2026-40127)
 | 22/05/2026 | ⚠️ | CVE-2026-8997 | Heap Buffer Overflow in vifm History Merge via Crafted vifminfo.json | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-8997)
 | 14/05/2026 | ⚠️ | CVE-2026-8295 | Integer Overflow in simdjson Leading to Out-of-Bounds Read | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-8295)
