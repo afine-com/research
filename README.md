@@ -5,6 +5,7 @@
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
 | 16/06/2026 | ⚠️ | CVE-2026-8484 | Heap Buffer Overflow in jansi JNI ioctl(int, long, int[]) | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-8484)
+| 13/06/2026 | ⚠️ | CVE-2026-46607 | Insecure Pickle Deserialization in Glances Version Cache Leads to Arbitrary Code Execution | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-46607)
 | 13/06/2026 | ⚠️ | CVE-2026-46606 | Command Injection via KVM/QEMU VM Domain Names in Glances `virsh.py` | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-46606)
 | 28/05/2026 | ⚠️ | CVE-2026-42250 | bzip2recover Off-by-One Error Leading to Global Buffer Overflow | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-42250)
 | 25/05/2026 | ⚠️ | CVE-2026-40127 | Authorization Bypass Through User-Controlled Key in OutSystems Lifetime | [Link](https://www.cve.org/CVERecord?id=CVE-2026-40127)
