@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 17/06/2026 | ⚠️ | CVE-2026-56741 | Unauthenticated Remote DoS via Unbounded Telnet NAWS Terminal Geometry | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-56741)
 | 17/06/2026 | ⚠️ | CVE-2026-56740 | Unauthenticated Remote Memory Exhaustion via Unbounded Telnet NEW-ENVIRON Variables | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-56740)
 | 16/06/2026 | ⚠️ | CVE-2026-8484 | Heap Buffer Overflow in jansi JNI ioctl(int, long, int[]) | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-8484)
 | 13/06/2026 | ⚠️ | CVE-2026-46611 | XML-RPC Server Missing Host Header Validation Enables DNS Rebinding in Glances | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-46611)
