@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 29/06/2026 | ⚠️ | CVE-2026-41992 | Global Buffer Over-read in GNU gzip LZH Decompressor via Stale Shared State | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-41992)
 | 29/06/2026 | ⚠️ | CVE-2026-41991 | Predictable Temporary File in GNU gzip `gzexe` Leading to Arbitrary File Overwrite | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-41991)
 | 17/06/2026 | ⚠️ | CVE-2026-56741 | JLine3 Unauthenticated Remote DoS via Unbounded Telnet NAWS Terminal Geometry | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-56741)
 | 17/06/2026 | ⚠️ | CVE-2026-56740 | JLine3 Unauthenticated Remote Memory Exhaustion via Unbounded Telnet NEW-ENVIRON Variables | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-56740)
