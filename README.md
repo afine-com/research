@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 02/07/2026 | ⚠️ | CVE-2026-54430 | Server-Side Request Forgery in OpenIDC liboauth2 AWS ALB JWKs Resolver | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-54430)
 | 29/06/2026 | ⚠️ | CVE-2026-11979 | Stack-Based Buffer Overflows in libxml2 xmlcatalog --shell | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-11979)
 | 29/06/2026 | ⚠️ | CVE-2026-41992 | Global Buffer Over-read in GNU gzip LZH Decompressor via Stale Shared State | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-41992)
 | 29/06/2026 | ⚠️ | CVE-2026-41991 | Predictable Temporary File in GNU gzip `gzexe` Leading to Arbitrary File Overwrite | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-41991)
