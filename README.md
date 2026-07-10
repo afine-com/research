@@ -6,6 +6,7 @@
 | --- | --- | --- | --- | :---: |
 | 02/07/2026 | ⚠️ | CVE-2026-54431 | Improper DPoP Proof Validation in OpenIDC liboauth2 | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-54431)
 | 02/07/2026 | ⚠️ | CVE-2026-54430 | Server-Side Request Forgery in OpenIDC liboauth2 AWS ALB JWKs Resolver | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-54430)
+| 30/06/2026 | ⚠️ | CVE-2026-53433 | Denial of Service in fzf `--listen` Mode via Quadratic HTTP Body Accumulation | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-53433)
 | 30/06/2026 | ⚠️ | CVE-2026-53432 | Integer Overflow in fzf Leading to Crash in FuzzyMatchV2 | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-53432)
 | 29/06/2026 | ⚠️ | CVE-2026-11979 | Stack-Based Buffer Overflows in libxml2 xmlcatalog --shell | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-11979)
 | 29/06/2026 | ⚠️ | CVE-2026-41992 | Global Buffer Over-read in GNU gzip LZH Decompressor via Stale Shared State | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-41992)
