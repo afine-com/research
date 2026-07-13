@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 09/07/2026 | ⚠️ | CVE-2026-56289 | CPU Denial of Service via Unbounded Hunk Scan Loop in GNU patch | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-56289)
 | 09/07/2026 | ⚠️ | CVE-2026-56288 | NULL Pointer Dereference in GNU patch UNI_DIFF Hunk Parser | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-56288)
 | 02/07/2026 | ⚠️ | CVE-2026-54431 | Improper DPoP Proof Validation in OpenIDC liboauth2 | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-54431)
 | 02/07/2026 | ⚠️ | CVE-2026-54430 | Server-Side Request Forgery in OpenIDC liboauth2 AWS ALB JWKs Resolver | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-54430)
