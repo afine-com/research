@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 10/07/2026 | ⚠️ | CVE-2026-14461 | Out-of-bounds read in mtr during DNS TXT parsing for AS lookups | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-14461)
 | 09/07/2026 | ⚠️ | CVE-2026-56289 | CPU Denial of Service via Unbounded Hunk Scan Loop in GNU patch | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-56289)
 | 09/07/2026 | ⚠️ | CVE-2026-56288 | NULL Pointer Dereference in GNU patch UNI_DIFF Hunk Parser | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-56288)
 | 08/07/2026 | ⚠️ | CVE-2026-49145 | Project `.ackrc` `--files-from` Arbitrary File Read in App::Ack | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-49145)
