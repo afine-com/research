@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 13/07/2026 | ⚠️ | CVE-2026-40553 | Stack-Based Buffer Overflow in GNU gawk `readdir` Extension `ftype()` | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-40553)
 | 13/07/2026 | ⚠️ | CVE-2026-40469 | Integer Overflow in GNU gawk `do_sub()` Leading to Heap Buffer Overflow | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-40469)
 | 13/07/2026 | ⚠️ | CVE-2026-40468 | Integer Overflow in GNU gawk `gsub()`/`sub()` Leading to Heap Corruption | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-40468)
 | 13/07/2026 | ⚠️ | CVE-2026-40467 | Use-After-Free in GNU gawk `do_getline_redir()` Leading to Crash | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-40467)
