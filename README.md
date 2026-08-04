@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 13/07/2026 | ⚠️ | CVE-2026-40468 | Integer Overflow in GNU gawk `gsub()`/`sub()` Leading to Heap Corruption | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-40468)
 | 13/07/2026 | ⚠️ | CVE-2026-40467 | Use-After-Free in GNU gawk `do_getline_redir()` Leading to Crash | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-40467)
 | 10/07/2026 | ⚠️ | CVE-2026-14461 | Out-of-bounds read in mtr during DNS TXT parsing for AS lookups | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-14461)
 | 09/07/2026 | ⚠️ | CVE-2026-56289 | CPU Denial of Service via Unbounded Hunk Scan Loop in GNU patch | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-56289)
