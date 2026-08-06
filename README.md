@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 24/07/2026 | ⚠️ | CVE-2026-56392 | Heap-based Buffer Overflow in GNU coreutils `unexpand` via Integer Overflow | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-56392)
 | 24/07/2026 | ⚠️ | CVE-2026-56391 | Out-of-bounds Read in GNU coreutils `uniq` via Multibyte `-w` Handling | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-56391)
 | 13/07/2026 | ⚠️ | CVE-2026-40553 | Stack-Based Buffer Overflow in GNU gawk `readdir` Extension `ftype()` | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-40553)
 | 13/07/2026 | ⚠️ | CVE-2026-40469 | Integer Overflow in GNU gawk `do_sub()` Leading to Heap Buffer Overflow | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-40469)
