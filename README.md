@@ -37,6 +37,7 @@
 | 11/05/2026 | ⚠️ | CVE-2026-6956 | Reflected Cross-Site Scripting in ATutor `/install/install.php` | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-6956)
 | 11/05/2026 | ⚠️ | CVE-2026-6909 | Reflected Cross-Site Scripting in ATutor `/install/upgrade.php` | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-6909)
 | 28/04/2026 | ⚠️ | CVE-2026-6842 | Insecure Directory Permissions in GNU nano Leading to Privilege Abuse | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-6842)
+| 27/07/2026 | ⚠️ | CVE-2026-16554 | Integer Overflow in cJSON `print_string_ptr()` Leading to Heap Buffer Overflow on 32-bit Builds | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-16554)
 | 20/04/2026 | ⚠️ | CVE-2026-5958 | Race Condition in GNU Sed | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-5958)
 | 07/04/2026 | ⚠️ | CVE-2026-33866 | Authorization Bypass in MLflow AJAX Endpoint | [Link](https://www.cve.org/CVERecord?id=CVE-2026-33866)
 | 07/04/2026 | ⚠️ | CVE-2026-33865 | Stored XSS via unsafe YAML parsing in MLflow | [Link](https://www.cve.org/CVERecord?id=CVE-2026-33865)
