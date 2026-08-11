@@ -4,6 +4,7 @@
 
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
+| 29/07/2026 | ⚠️ | CVE-2026-56390 | Arbitrary File Write in GNU Bison via Grammar-defined Output Paths | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-56390)
 | 29/07/2026 | ⚠️ | CVE-2026-56389 | Arbitrary Program Execution in GNU Bison HTML Report Generation | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-56389)
 | 24/07/2026 | ⚠️ | CVE-2026-56392 | Heap-based Buffer Overflow in GNU coreutils `unexpand` via Integer Overflow | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-56392)
 | 24/07/2026 | ⚠️ | CVE-2026-56391 | Out-of-bounds Read in GNU coreutils `uniq` via Multibyte `-w` Handling | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-56391)
