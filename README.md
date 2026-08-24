@@ -8,6 +8,7 @@
 | 10/08/2026 | ⚠️ | CVE-2026-18370 | Heap-Based Buffer Overflow in entr `run_utility()` | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-18370)
 | 29/07/2026 | ⚠️ | CVE-2026-56390 | Arbitrary File Write in GNU Bison via Grammar-defined Output Paths | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-56390)
 | 29/07/2026 | ⚠️ | CVE-2026-56389 | Arbitrary Program Execution in GNU Bison HTML Report Generation | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-56389)
+| 29/07/2026 | ⚠️ | CVE-2026-50642 | Terminal Control Sequence Injection in diff-so-fancy | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-50642)
 | 27/07/2026 | ⚠️ | CVE-2026-16554 | Integer Overflow in cJSON `print_string_ptr()` Leading to Heap Buffer Overflow on 32-bit Builds | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-16554)
 | 24/07/2026 | ⚠️ | CVE-2026-56392 | Heap-based Buffer Overflow in GNU coreutils `unexpand` via Integer Overflow | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-56392)
 | 24/07/2026 | ⚠️ | CVE-2026-56391 | Out-of-bounds Read in GNU coreutils `uniq` via Multibyte `-w` Handling | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-56391)
