@@ -5,6 +5,7 @@
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
 | 17/08/2026 | ⚠️ | CVE-2026-40126 | DOM-based Cross-Site Scripting in OutSystems Service Center | [Link](https://www.cve.org/CVERecord?id=CVE-2026-40126)
+| 10/08/2026 | ⚠️ | CVE-2026-18370 | Heap-Based Buffer Overflow in entr `run_utility()` | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-18370)
 | 29/07/2026 | ⚠️ | CVE-2026-56390 | Arbitrary File Write in GNU Bison via Grammar-defined Output Paths | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-56390)
 | 29/07/2026 | ⚠️ | CVE-2026-56389 | Arbitrary Program Execution in GNU Bison HTML Report Generation | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-56389)
 | 27/07/2026 | ⚠️ | CVE-2026-16554 | Integer Overflow in cJSON `print_string_ptr()` Leading to Heap Buffer Overflow on 32-bit Builds | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-16554)
