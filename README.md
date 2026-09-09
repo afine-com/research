@@ -8,6 +8,7 @@
 | 10/08/2026 | ⚠️ | CVE-2026-18370 | Heap-Based Buffer Overflow in entr `run_utility()` | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-18370)
 | 10/08/2026 | ⚠️ | CVE-2026-71391 | Off-by-One Error in GNU Emacs for Android | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-71391)
 | 10/08/2026 | ⚠️ | CVE-2026-71392 | Integer Overflow in GNU Emacs for Android | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-71392)
+| 10/08/2026 | ⚠️ | CVE-2026-71393 | Heap Buffer Overflow in GNU Emacs for Android | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-71393)
 | 03/08/2026 | ⚠️ | CVE-2026-18477 | TOCTOU Race in GNU tar Incremental Restore | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-18477)
 | 29/07/2026 | ⚠️ | CVE-2026-56390 | Arbitrary File Write in GNU Bison via Grammar-defined Output Paths | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-56390)
 | 29/07/2026 | ⚠️ | CVE-2026-56389 | Arbitrary Program Execution in GNU Bison HTML Report Generation | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-56389)
