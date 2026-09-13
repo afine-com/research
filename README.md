@@ -12,6 +12,7 @@
 | 20/08/2026 | ⚠️ | CVE-2026-64965 | Missing Authorization Check in ATutor | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-64965)
 | 20/08/2026 | ⚠️ | CVE-2026-64966 | Path Traversal leading to Remote Code Execution in ATutor | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-64966)
 | 20/08/2026 | ⚠️ | CVE-2026-64967 | Path Traversal in ATutor | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-64967)
+| 20/08/2026 | ⚠️ | CVE-2026-64968 | Server-Side Request Forgery in ATutor | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-64968)
 | 17/08/2026 | ⚠️ | CVE-2026-40126 | DOM-based Cross-Site Scripting in OutSystems Service Center | [Link](https://www.cve.org/CVERecord?id=CVE-2026-40126)
 | 10/08/2026 | ⚠️ | CVE-2026-18370 | Heap-Based Buffer Overflow in entr `run_utility()` | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-18370)
 | 10/08/2026 | ⚠️ | CVE-2026-71391 | Off-by-One Error in GNU Emacs for Android | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-71391)
