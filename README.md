@@ -5,6 +5,7 @@
 | Date | | CVE | Topic | Details | 
 | --- | --- | --- | --- | :---: |
 | 20/08/2026 | ⚠️ | CVE-2026-64960 | Remote Code Execution via Unrestricted File Upload in ATutor | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-64960)
+| 20/08/2026 | ⚠️ | CVE-2026-64961 | Authentication Bypass in ATutor | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-64961)
 | 17/08/2026 | ⚠️ | CVE-2026-40126 | DOM-based Cross-Site Scripting in OutSystems Service Center | [Link](https://www.cve.org/CVERecord?id=CVE-2026-40126)
 | 10/08/2026 | ⚠️ | CVE-2026-18370 | Heap-Based Buffer Overflow in entr `run_utility()` | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-18370)
 | 10/08/2026 | ⚠️ | CVE-2026-71391 | Off-by-One Error in GNU Emacs for Android | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-71391)
