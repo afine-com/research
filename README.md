@@ -8,6 +8,7 @@
 | 13/11/2026 | ⚠️ | CVE-2026-59075 | Dynamic LINQ Injection in Edito CMS Administrative Sorting | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-59075)
 | 13/11/2026 | ⚠️ | CVE-2026-59076 | Stored Cross-Site Scripting via Profile Fields in Edito CMS | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-59076)
 | 13/11/2026 | ⚠️ | CVE-2026-59077 | Stored Cross-Site Scripting in Edito CMS Tiny Editor Content | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-59077)
+| 13/11/2026 | ⚠️ | CVE-2026-59078 | Stored Cross-Site Scripting via SVG Avatar Upload in Edito CMS | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-59078)
 | 20/08/2026 | ⚠️ | CVE-2026-64960 | Remote Code Execution via Unrestricted File Upload in ATutor | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-64960)
 | 20/08/2026 | ⚠️ | CVE-2026-64961 | Authentication Bypass in ATutor | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-64961)
 | 20/08/2026 | ⚠️ | CVE-2026-64962 | Cross-Site Request Forgery (CSRF) in ATutor | [Link](https://github.com/afine-com/research/tree/master/advisories/CVE-2026-64962)
